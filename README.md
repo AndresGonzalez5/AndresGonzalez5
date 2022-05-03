@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+![Andrés González's GitHub stats](https://github-readme-stats.vercel.app/api?username=andresgonzalez5&show_icons=true&theme=radical&count_private=true)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresgonzalez5&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **AndresGonzalez5/AndresGonzalez5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
