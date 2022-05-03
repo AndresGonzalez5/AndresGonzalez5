@@ -3,7 +3,7 @@
 ![Andrés González's GitHub stats](https://github-readme-stats.vercel.app/api?username=andresgonzalez5&show_icons=true&theme=synthwave&count_private=true)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresgonzalez5&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresgonzalez5&layout=compact&theme=synthwave&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
