@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![Andrés González's GitHub stats](https://github-readme-stats.vercel.app/api?username=andresgonzalez5&show_icons=true&theme=synthwave&count_private=true&include_all_commits=true)
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresgonzalez5&layout=compact&theme=synthwave&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
