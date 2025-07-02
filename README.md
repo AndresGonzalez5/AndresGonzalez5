@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresgonzalez5&layout=compact&theme=synthwave&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <!--
 **AndresGonzalez5/AndresGonzalez5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
